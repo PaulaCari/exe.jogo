@@ -1,0 +1,14 @@
+img {
+    width:20px;
+    display: flex;
+    display: inline;
+    margin: 19px;
+}
+
+
+#pc{
+    width: 200px;
+    padding: 1px;
+    
+    margin: none;
+}
